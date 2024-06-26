@@ -37,6 +37,7 @@ As Data Analyst professional, my expertise lies in identifying trends & patterns
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mainakghosh25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mainakghosh25/" height="30" width="40" /></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img align="center" src="https://static.naukimg.com/s/0/0/i/naukri-identity/naukri_gnb_logo.svg" alt="https://www.naukri.com/mnjuser/profile?id=&altresid" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mainak_g25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mainak_g25" height="30" width="40" /></a>
 </p>
 

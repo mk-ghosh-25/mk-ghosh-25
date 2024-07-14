@@ -13,7 +13,7 @@ As Data Analyst professional, my expertise lies in identifying trends & patterns
 ## 💫 About Me:
 - 🔭 I’m currently working on **Data Analytics & Business Intelligence**
 
-- 🌱 I’m currently learning **Python, Tableau**
+- 🌱 I’m currently learning **Python & Tableau**
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
 

@@ -5,7 +5,7 @@
 <p align="center"> Welcome to my GitHub profile</p>
 <img align="right" alt="Me working" width="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-<img src="https://media.licdn.com/dms/image/D4D16AQE3VJVwwLiATQ/profile-displaybackgroundimage-shrink_350_1400/0/1719386988557?e=1724889600&v=beta&t=6U4FVnLMjploKgs3uQBegf5BzlwcKehQlXwfo_vc0RY">
+<img src="https://media.licdn.com/dms/image/D4D16AQFk6oj7ZOG27Q/profile-displaybackgroundimage-shrink_350_1400/0/1721456881275?e=1727308800&v=beta&t=plW2LtfqN3IHoMPZMRqgX3DuQHVb0R3wTw1tUCDLfn0">
 
 As Data Analyst professional, my expertise lies in identifying trends & patterns from the large and complex datasets and derive actionable Insights out of it as per the business requirements. I'm proficient with tools such as MS Excel, Power BI, Tableau, SQL & Python to perform Data Cleaning, Explanatory Data Analysis, statistical analysis, data visualizations and present reports & dashboards that convey the Business Insights to the key stakeholders to help businesses make data-driven decisions.<br><br><br>
 

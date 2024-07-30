@@ -3,6 +3,7 @@
 <h3 align="center">A Data Analyst professional from India</h3><br>
 
 <p align="center"> Welcome to my GitHub profile</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcoolgit25&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub-user-Mainak" /></p>
 <img align="right" alt="Me working" width="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <img src="https://media.licdn.com/dms/image/D4D16AQFk6oj7ZOG27Q/profile-displaybackgroundimage-shrink_350_1400/0/1721456881275?e=1727308800&v=beta&t=plW2LtfqN3IHoMPZMRqgX3DuQHVb0R3wTw1tUCDLfn0">
@@ -32,7 +33,7 @@ As Data Analyst professional, my expertise lies in identifying trends & patterns
 * Tableau
 <br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcoolgit25&label=Profile%20views&color=0e75b6&style=flat" alt="mkcoolgit25" /></p>
+
 
 ### Connect with me:
 <p align="left">

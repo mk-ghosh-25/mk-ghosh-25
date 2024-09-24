@@ -1,17 +1,19 @@
 
-<h1 align="center">Hello World, I'm Mainak Ghosh</h1>
-<h3 align="center">A Data Analyst professional from India</h3><br>
+<h1 align="center">Welcome to my GitHub profile! 🙏🏽</h1> <br>
+<img align="right" alt="Me working" width="413" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-<p align="center"> Welcome to my GitHub profile</p>
+<h3 align="left">Hi there👋🏼 Welcome to my GitHub profile🤗<br><br> I'm Mainak Ghosh, a Data Analyst professional from India</h3><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcoolgit25&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub-user-Mainak" /></p>
-<img align="right" alt="Me working" width="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQEHrNklaP2LGQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726648960077?e=1732752000&v=beta&t=2NhTqiyAlyakQH_fTR3NexoHbwCPZAmMOLDDpF_YgIk">
+<br><br>
 
-As Data Analyst professional, my expertise lies in identifying trends & patterns from the large and complex datasets and derive actionable Insights out of it as per the business requirements. I'm proficient with tools such as MS Excel, Power BI, Tableau, SQL & Python to perform Data Cleaning, Explanatory Data Analysis, statistical analysis, data visualizations and present reports & dashboards that convey the Business Insights to the key stakeholders to help businesses make data-driven decisions.<br><br><br>
+## 🧑🏽‍💻 About Me:
+As Data Analyst professional, my expertise lies in identifying trends & patterns from the large and complex datasets and derive actionable Insights out of it as per the business requirements.
+<br><br>I'm proficient with tools such as MS Excel, Power BI, Tableau, SQL & Python to perform Data Cleaning, Explanatory Data Analysis, statistical analysis, data visualizations and present reports & dashboards that convey the Business Insights to the key stakeholders to help businesses make data-driven decisions.
 
-
-## 💫 About Me:
 - 🔭 I’m currently working on **Data Analytics & Business Intelligence**
 
 - 🌱 I’m currently learning **Python & Tableau**
@@ -32,7 +34,6 @@ As Data Analyst professional, my expertise lies in identifying trends & patterns
 * Python
 * Tableau
 <br><br><br>
-
 
 
 ### Connect with me via:

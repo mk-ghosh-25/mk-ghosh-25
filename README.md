@@ -18,7 +18,7 @@ As Data Analyst professional, my expertise lies in identifying trends & patterns
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
 
-- 👨‍💻 Check my Projects here 👉 [Maven Showcase](https://mavenanalytics.io/profile/Mainak-Ghosh/195370316) , [Novypro](https://www.novypro.com/profile_about/mainakghosh) 
+- 👨‍💻 Check my Projects here 👉  [Portfolio](https://codebasics.io/portfolio/Mainak-Ghosh) , [Maven Showcase](https://mavenanalytics.io/profile/Mainak-Ghosh/195370316) , [Novypro](https://www.novypro.com/profile_about/mainakghosh) 
 
 - 📝 I regularly write posts/blogs on Data Analytics on [Linkedin](https://www.linkedin.com/in/mainakghosh25/) , [Medium](https://medium.com/@mainakg25)
 <br><br><br>

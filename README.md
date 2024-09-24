@@ -20,7 +20,7 @@ As Data Analyst professional, my expertise lies in identifying trends & patterns
 
 - 👨‍💻 Check my Projects here 👉 [Maven Showcase](https://mavenanalytics.io/profile/Mainak-Ghosh/195370316) , [Novypro](https://www.novypro.com/profile_about/mainakghosh) 
 
-- 📝 I regularly write posts on Data Analysis on [Linkedin](https://www.linkedin.com/in/mainakghosh25/)
+- 📝 I regularly write posts/blogs on Data Analytics on [Linkedin](https://www.linkedin.com/in/mainakghosh25/) , [Medium](https://medium.com/@mainakg25)
 <br><br><br>
 
 
@@ -32,7 +32,6 @@ As Data Analyst professional, my expertise lies in identifying trends & patterns
 * Python
 * Tableau
 <br><br><br>
-
 
 
 

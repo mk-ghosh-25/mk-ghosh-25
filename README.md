@@ -30,7 +30,7 @@ As Data Analyst professional, my expertise lies in identifying trends & patterns
 * Excel
 * Power BI
 * SQL
-* Data Visualization
+* Data Visualizations
 * Python
 * Tableau
 <br><br><br>

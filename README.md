@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to my GitHub profile! 🙏🏽</h1> <br>
+<h1 align="center">Welcome to my GitHub profile! </h1> <br>
 <img align="right" alt="Me working" width="430" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <h3 align="left">Hi there👋🏼 Welcome to my GitHub profile🤗<br><br> I'm Mainak Ghosh, a Data Analyst professional from India</h3><br>
